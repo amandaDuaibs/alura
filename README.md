@@ -11,3 +11,4 @@
 - CSS Grid: Simplificando layouts (de 19/05/2021 a 27/05/2021) 8hrs
 - JavaScript: primeiros passos com a linguagem (de 14/03/2021 a 23/03/2021) 10 horas.
 - JAVASCRIPT: PROGRAMANDO NA LINGUAGEM DA WEB (25/03/2021 a 31/03/2021)20 horas. 
+- SASS: O CSS COM SUPERPODERES (31/07/2021 a 20/08/2021) 10 horas.
